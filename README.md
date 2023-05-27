@@ -7,7 +7,7 @@
 - 💻 Senior Software Engineer
 - ⏳ I have 6 years of experience
 - 💼 I’m currently working at [Kurabu](https://www.kurabu.com/)
-- ✍️ I wrote some sfuffs in [dev.to](https://dev.to/guisfits)
+- ✍️ I wrote some stuffs in [dev.to](https://dev.to/guisfits)
 - 📚 I'm studying more about **Architecture**, **Elixir** and **Go**
 - ⚡ Others things about me
   - 🏍️ Motorcycle Rider
@@ -16,7 +16,7 @@
   - 🛹 Ex-Skater 
   - 🧷 Punk Rocker 4ever
 
-## 🛠 &nbsp; Stacks
+## 🚀 &nbsp; Stacks
 
 ![Elixir](https://img.shields.io/badge/-Elixir-05122A?style=flat&logo=elixir)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
@@ -29,7 +29,7 @@
 
 [![card](https://github-readme-stats.vercel.app/api?username=guisfits&theme=radical&show_icons=true)](https://github.com/guisfits/github-readme-stats)
 
-## Contact
+## ☎️ Contact
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guisfits@gmail.com)](mailto:guisfits@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guisfits/)](https://www.linkedin.com/in/guisfits/)
