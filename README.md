@@ -25,7 +25,7 @@
 
 ## ⚙️ &nbsp; Analytics
 
-[![guisfits](https://github-readme-stats.vercel.app/api/top-langs/?username=guisfits&hide=html&layout=compact&theme=radical)](https://github.com/guisfits/github-readme-stats)
+[![guisfits](https://github-readme-stats.vercel.app/api/top-langs/?username=guisfits&hide=html,css&layout=compact&theme=radical)](https://github.com/guisfits/github-readme-stats)
 
 [![card](https://github-readme-stats.vercel.app/api?username=guisfits&theme=radical&show_icons=true)](https://github.com/guisfits/github-readme-stats)
 
