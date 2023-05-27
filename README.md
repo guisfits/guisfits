@@ -1,16 +1,36 @@
-### Hi there 👋
+# Hello there ✌️
 
-<!--
-**guisfits/guisfits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=guisfits&color=green" alt="Profile views" /> </p>
 
-Here are some ideas to get you started:
+## 👨‍💻 About
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Senior Software Engineer
+- ⏳ I have 6 years of experience
+- 💼 I’m currently working at [Kurabu](https://www.kurabu.com/)
+- ✍️ I wrote some sfuffs in [dev.to](https://dev.to/guisfits)
+- 📚 I'm studying more about **Architecture**, **Elixir** and **Go**
+- ⚡ Others things about me
+  - 🏍️ Motorcycle Rider
+  - 🎮 Video-Game Lover
+  - 🎸 Guitarist Sometimes  
+  - 🛹 Ex-Skater 
+  - 🧷 Punk Rocker 4ever
+
+## 🛠 &nbsp; Stacks
+
+![Elixir](https://img.shields.io/badge/-Elixir-05122A?style=flat&logo=elixir)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
+![C#](https://img.shields.io/badge/C%23-05122A?style=flat&logo=c-sharp)
+![Go](https://img.shields.io/badge/Go-05122A?style=flat&logo=go)
+
+## ⚙️ &nbsp; Analytics
+
+[![guisfits](https://github-readme-stats.vercel.app/api/top-langs/?username=guisfits&hide=html&layout=compact&theme=radical)](https://github.com/guisfits/github-readme-stats)
+
+[![card](https://github-readme-stats.vercel.app/api?username=guisfits&theme=radical&show_icons=true)](https://github.com/guisfits/github-readme-stats)
+
+## Contact
+
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guisfits@gmail.com)](mailto:guisfits@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guisfits/)](https://www.linkedin.com/in/guisfits/)
+[![GitHub Guisfits]( https://img.shields.io/github/followers/guisfits?label=follow&style=social)](https://github.com/guisfits)
