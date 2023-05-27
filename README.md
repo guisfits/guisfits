@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guisfits&color=green" alt="Profile views" /> </p>
 
-## 👨‍💻 About
+## 👨‍💻 &nbsp; About
 
 - 💻 Senior Software Engineer
 - ⏳ I have 6 years of experience
@@ -20,16 +20,16 @@
 
 ![Elixir](https://img.shields.io/badge/-Elixir-05122A?style=flat&logo=elixir)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
-![C#](https://img.shields.io/badge/C%23-05122A?style=flat&logo=c-sharp)
-![Go](https://img.shields.io/badge/Go-05122A?style=flat&logo=go)
+![C#](https://img.shields.io/badge/C%23-05122A?style=flat&logo=c-sharp)&nbsp;
+![Go](https://img.shields.io/badge/Go-05122A?style=flat&logo=go)&nbsp;
 
 ## ⚙️ &nbsp; Analytics
 
-[![guisfits](https://github-readme-stats.vercel.app/api/top-langs/?username=guisfits&hide=html,css&layout=compact&theme=radical)](https://github.com/guisfits/github-readme-stats)
+[![guisfits](https://github-readme-stats.vercel.app/api/top-langs/?username=guisfits&hide=html,css&theme=dracula&layout=compact)](https://github.com/guisfits/github-readme-stats)
 
-[![card](https://github-readme-stats.vercel.app/api?username=guisfits&theme=radical&show_icons=true)](https://github.com/guisfits/github-readme-stats)
+[![card](https://github-readme-stats.vercel.app/api?username=guisfits&theme=dracula&show_icons=true)](https://github.com/guisfits/github-readme-stats)
 
-## ☎️ Contact
+## ☎️ &nbsp; Contact
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guisfits@gmail.com)](mailto:guisfits@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guisfits/)](https://www.linkedin.com/in/guisfits/)
