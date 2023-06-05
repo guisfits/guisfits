@@ -6,7 +6,7 @@
 
 - 💻 Senior Software Engineer
 - ⏳ I have 6 years of experience
-- 💼 I’m currently working at [Kurabu](https://www.kurabu.com/)
+- 💼 I’m currently working at [SumUp](https://github.com/sumup)
 - ✍️ I wrote some stuffs in [dev.to](https://dev.to/guisfits)
 - 📚 I'm studying more about **Architecture**, **Elixir** and **Go**
 - ⚡ Others things about me
