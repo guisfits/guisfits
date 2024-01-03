@@ -9,12 +9,6 @@
 - 💼 I’m currently working at [SumUp](https://github.com/sumup)
 - ✍️ I wrote some stuffs in [dev.to](https://dev.to/guisfits)
 - 📚 I'm studying more about **Architecture**, **Elixir** and **Go**
-- ⚡ Others things about me
-  - 🏍️ Motorcycle Rider
-  - 🎮 Video-Game Lover
-  - 🎸 Guitarist Sometimes  
-  - 🛹 Ex-Skater 
-  - 🧷 Punk Rocker 4ever
 
 ## 🚀 &nbsp; Stacks
 
