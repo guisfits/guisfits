@@ -16,6 +16,7 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 ![C#](https://img.shields.io/badge/C%23-05122A?style=flat&logo=c-sharp)&nbsp;
 ![Go](https://img.shields.io/badge/Go-05122A?style=flat&logo=go)&nbsp;
+![Python](https://img.shields.io/badge/Python-05122A?style=flat&logo=python)&nbsp;
 
 ## ⚙️ &nbsp; Analytics
 
