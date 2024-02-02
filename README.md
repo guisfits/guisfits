@@ -6,11 +6,11 @@
 
 - 💻 Senior Software Engineer
 - ⏳ I have **INTENSE** 6+ years of experience
-  - During this time I got a lot of exp building complex applications based on _microservices_, _EDA_, _MVC monoliths_ and more. 
-  - I already used several programming languages in production, such as _C#_, _Elixir_, _Typescript_, _Golang_. Also, I know some _Python_ and already have some fun with _Rust_, _Clojure_ and _C++_.
-  - I'm **BackEnder** primally, however already worked as fullstack using _React.js_ and _Angular_ for FE, and _Xamarin_ and _IONIC_ for cross-apps.
-  - I also have experience with _Docker_, _K8_; _AWS_, _Heroku_; databases as _Postgres_, _SQL Server_, _DynamoDB_, _Redis_, _MongoDb_, _Elasticsearch_, _RavenDb_; Monitoring with _OTEL_, _ELK_, _Grafana_/_Prometheus_; _RestAPIs_, _GraphQL_, _gRPC_; _Kafka_, _RabbitMQ_, _Amazon SQS_;
-- 📚  I'm studying more about **Architecture** and **Machine Learning** 
+  - During this time I got a lot of exp building complex applications based on **Microservices**, **EDA**, **MVC** and **Modular Monoliths** 
+  - I already used several programming languages in production, such as `C#`, `Elixir`, `Typescript`, `GO`. Also, I know some `Python` and already have some fun with `Rust`, `Clojure` and `C++`.
+  - I'm **BackEnder** primally, however already worked as fullstack using _React.js_ and _Angular_ for FE, and _Xamarin_ and _IONIC_ for cross-mobile-apps.
+  - Some tech that I already worked with: `Docker`, `Kubernetes`, `AWS`, `Heroku`, `Postgres`, `SQL Server`, `DynamoDB`, `Redis`, `MongoDB`, `ElasticSearch`, `RavenDb`, `OpenTelemetry`, `E.L.K.`, `Datadog`, `Grafana`, `Prometheus`, `Kafka`, `RabbitMQ`, `Amazon SQS`, `RestAPIs`, `GraphQL`, `gRPC`
+- 📚 Now I'm studying more about **Architecture** and **Machine Learning** 
 
 ## 🚀 &nbsp; Stacks
 
