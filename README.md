@@ -8,7 +8,7 @@
 - ⏳ I have **INTENSE** 6+ years of experience
   - During this time I got a lot of exp building complex applications based on **Microservices**, **EDA**, **MVC** and **Modular Monoliths** 
   - I already used several programming languages in production, such as `C#`, `Elixir`, `Typescript`, `GO`. Also, I know some `Python` and already have some fun with `Rust`, `Clojure` and `C++`.
-  - I'm **BackEnder** primally, however already worked as fullstack using _React.js_ and _Angular_ for FE, and _Xamarin_ and _IONIC_ for cross-mobile-apps.
+  - I'm **BackEnder** primally, however already worked as fullstack using _React.js_ and _Angular_ for FE.
   - Some tech that I already worked with: `Docker`, `Kubernetes`, `AWS`, `Heroku`, `Postgres`, `SQL Server`, `DynamoDB`, `Redis`, `MongoDB`, `ElasticSearch`, `RavenDb`, `OpenTelemetry`, `E.L.K.`, `Datadog`, `Grafana`, `Prometheus`, `Kafka`, `RabbitMQ`, `Amazon SQS`, `RestAPIs`, `GraphQL`, `gRPC`
 - 📚 Now I'm studying more about **Architecture** and **Machine Learning** 
 
