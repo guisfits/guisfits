@@ -10,7 +10,6 @@
   - I already used several programming languages in production, such as `C#`, `Elixir`, `Typescript`, `GO`. Also, I know some `Python` and already have some fun with `Rust`, `Clojure` and `C++`.
   - I'm **BackEnder** primally, however already worked as fullstack using _React.js_ and _Angular_ for FE.
   - Some tech that I already worked with: `Docker`, `Kubernetes`, `RabbitMQ`, `Kafka`,`SQS`, `AWS`, `Heroku`, `Postgres`, `SQL Server`, `DynamoDB`, `Redis`, `MongoDB`, `ElasticSearch`, `RavenDb`, `OpenTelemetry`, `E.L.K.`, `Datadog`, `Grafana`, `RestAPIs`, `GraphQL`, `gRPC`
-- 📚 Now I'm studying more about **Architecture** and **Machine Learning** 
 
 ## 🚀 &nbsp; Stacks
 
