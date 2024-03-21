@@ -7,7 +7,6 @@
 - 💻 Senior Software Engineer
 - ⏳ Coding since 2015
 - 🏗️ I have experience building projects based on `Microservices`, `Event-Driven Architecture` and `Modular Monoliths`
-- ⚙️ I'm **BackEnder** primally, but I've already done some work with `React.js` and `Angular` on FrontEnd.
 - 👾 I've already used several programming languages in production, such as `C#`, `Elixir`, `TypeScript` and `Go`. I also code in `Python` and I've already had fun with `Rust`, `Clojure` and `C++`.
 - 📦 Some tech that I already worked with: `Docker`, `Kubernetes`, `RabbitMQ`, `Kafka`,`SQS`, `AWS`, `Heroku`, `Postgres`, `SQL Server`, `DynamoDB`, `Redis`, `MongoDB`, `ElasticSearch`, `RavenDb`, `OpenTelemetry`, `E.L.K.`, `Datadog`, `Grafana`, `RestAPIs`, `GraphQL`, `gRPC`
 - 📚 Things that I have major interest: `Functional Programming`, `Architecture` and `Machine Learning`
