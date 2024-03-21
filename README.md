@@ -6,13 +6,13 @@
 
 - 💻 Senior Software Engineer
 - ⏳ Coding since 2015
-- 🏗️ I have experience building projects based on **Microservices**, **Event-Driven Architecture** and **Modular Monoliths** 
-- 🗣️ I've already used several programming languages in production, such as `C#`, `Elixir`, `TypeScript`, `GO`. Also, I know some `Python` and I already had fun with `Rust`, `Clojure` and `C++`.
-- ⚙️ I'm **BackEnder** primally, however already worked as fullstack using _React.js_ and _Angular_ for FE.
+- 🏗️ I have experience building projects based on `Microservices`, `Event-Driven Architecture` and `Modular Monoliths`
+- ⚙️ I'm **BackEnder** primally, but I've already done some work with `React.js` and `Angular` on FrontEnd.
+- 👾 I've already used several programming languages in production, such as `C#`, `Elixir`, `TypeScript` and `Go`. I also code in `Python` and I've already had fun with `Rust`, `Clojure` and `C++`.
 - 📦 Some tech that I already worked with: `Docker`, `Kubernetes`, `RabbitMQ`, `Kafka`,`SQS`, `AWS`, `Heroku`, `Postgres`, `SQL Server`, `DynamoDB`, `Redis`, `MongoDB`, `ElasticSearch`, `RavenDb`, `OpenTelemetry`, `E.L.K.`, `Datadog`, `Grafana`, `RestAPIs`, `GraphQL`, `gRPC`
-- 📚 Topics of interest/study: `Architecture` and `Machine Learning`
+- 📚 Things that I have major interest: `Functional Programming`, `Architecture` and `Machine Learning`
 
-## 🚀 &nbsp; Stacks
+##  &nbsp; Stacks
 
 ![Elixir](https://img.shields.io/badge/-Elixir-05122A?style=flat&logo=elixir)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
